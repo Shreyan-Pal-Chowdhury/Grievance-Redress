@@ -1,0 +1,2 @@
+[console_scripts]
+grievancebot = grievancechatbot.app:main

@@ -1,0 +1,20 @@
+Metadata-Version: 2.4
+Name: GrievanceChatbot
+Version: 1.0.0
+Summary: AI-powered Consumer Grievance Chatbot with Groq Multimodal and MongoDB
+Author: Shreyan Pal Chowdhury
+Author-email: shreyan.palchowdhury@somnetics.in
+Requires-Python: >=3.10
+Requires-Dist: flask
+Requires-Dist: pymongo
+Requires-Dist: groq
+Requires-Dist: langchain-community
+Requires-Dist: langchain-huggingface
+Requires-Dist: langchain-text-splitters
+Requires-Dist: faiss-cpu
+Requires-Dist: certifi
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary

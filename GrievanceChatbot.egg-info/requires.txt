@@ -1,0 +1,8 @@
+flask
+pymongo
+groq
+langchain-community
+langchain-huggingface
+langchain-text-splitters
+faiss-cpu
+certifi

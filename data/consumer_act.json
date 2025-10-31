@@ -1,0 +1,247 @@
+{
+  "Consumer_Protection_Act": {
+    "definitions": {
+      "consumer_rights": [
+        {
+          "clause": "(iii)",
+          "description": "the right to be assured, wherever possible, access to a variety of goods, products or services at competitive prices"
+        },
+        {
+          "clause": "(iv)",
+          "description": "the right to be heard and to be assured that consumer's interests will receive due consideration at appropriate fora"
+        },
+        {
+          "clause": "(v)",
+          "description": "the right to seek redressal against unfair trade practice or restrictive trade practices or unscrupulous exploitation of consumers"
+        },
+        {
+          "clause": "(vi)",
+          "description": "the right to consumer awareness"
+        }
+      ],
+      "defect": {
+        "clause": "(10)",
+        "definition": "any fault, imperfection or shortcoming in the quality, quantity, potency, purity or standard which is required to be maintained by or under any law for the time being in force or under any contract, express or implied or as is claimed by the trader in any manner whatsoever in relation to any goods or product"
+      },
+      "deficiency": {
+        "clause": "(11)",
+        "definition": "any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner of performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service",
+        "includes": [
+          "any act of negligence or omission or commission by such person which causes loss or injury to the consumer",
+          "deliberate withholding of relevant information by such person to the consumer"
+        ]
+      },
+      "design": {
+        "clause": "(12)",
+        "definition": "in relation to a product, means the intended or known physical and material characteristics of such product and includes any intended or known formulation or content of such product and the usual result of the intended manufacturing or other process used to produce such product"
+      },
+      "direct_selling": {
+        "clause": "(13)",
+        "definition": "marketing, distribution and sale of goods or provision of services through a network of sellers, other than through a permanent retail location"
+      },
+      "e-commerce": {
+        "clause": "(16)",
+        "definition": "buying or selling of goods or services including digital products over digital or electronic network"
+      },
+      "electronic_service_provider": {
+        "clause": "(17)",
+        "definition": "a person who provides technologies or processes to enable a product seller to engage in advertising or selling goods or services to a consumer and includes any online market place or online auction sites"
+      },
+      "endorsement": {
+        "clause": "(18)",
+        "definition": "in relation to an advertisement, means any message, verbal statement, demonstration; or depiction of the name, signature, likeness or other identifiable personal characteristics of an individual; or depiction of the name or seal of any institution or organisation, which makes the consumer to believe that it reflects the opinion, finding or experience of the person making such endorsement"
+      },
+      "goods": {
+        "clause": "(21)",
+        "definition": "every kind of movable property and includes food as defined in clause (i) of sub-section (I) of section 3 of the Food Safety and Standards Act, 2006"
+      },
+      "harm": {
+        "clause": "(22)",
+        "definition": "in relation to a product liability, includes damage to any property, other than the product itself; personal injury, illness or death; mental agony or emotional distress attendant to personal injury or illness or damage to property; or any loss of consortium or services or other loss resulting from harm",
+        "excludes": "any harm caused to a product itself or any damage to the property on account of breach of warranty conditions or any commercial or economic loss"
+      },
+      "misleading_advertisement": {
+        "clause": "(28)",
+        "definition": "in relation to any product or service, means an advertisement which falsely describes such product or service; or gives a false guarantee to, or is likely to mislead the consumers as to the nature, substance, quantity or quality of such product or service; or conveys an express or implied representation which would constitute an unfair trade practice; or deliberately conceals important information"
+      },
+      "product": {
+        "clause": "(33)",
+        "definition": "any article or goods or substance or raw material or any extended cycle of such product, which may be in gaseous, liquid, or solid state possessing intrinsic value which is capable of delivery either as wholly assembled or as a component part and is produced for introduction to trade or commerce",
+        "excludes": "human tissues, blood, blood products and organs"
+      },
+      "product_liability": {
+        "clause": "(34)",
+        "definition": "the responsibility of a product manufacturer or product seller, of any product or service, to compensate for any harm caused to a consumer by such defective product manufactured or sold or by deficiency in services relating thereto"
+      },
+      "restrictive_trade_practice": {
+        "clause": "(41)",
+        "definition": "a trade practice which tends to bring about manipulation of price or its conditions of delivery or to affect flow of supplies in the market relating to goods or services in such a manner as to impose on the consumers unjustified costs or restrictions",
+        "includes": [
+          "delay beyond the period agreed to by a trader in supply of such goods or in providing the services which has led or is likely to lead to rise in the price",
+          "any trade practice which requires a consumer to buy, hire or avail of any goods or services as condition precedent for buying, hiring or availing of other goods or services"
+        ]
+      },
+      "service": {
+        "clause": "(42)",
+        "definition": "service of any description which is made available to potential users and includes, but not limited to, the provision of facilities in connection with banking, financing, insurance, transport, processing, supply of electrical or other energy, telecom, boarding or lodging or both, housing construction, entertainment, amusement or the purveying of news or other information",
+        "excludes": "the rendering of any service free of charge or under a contract of personal service"
+      },
+      "unfair_contract": {
+        "clause": "(46)",
+        "definition": "a contract between a manufacturer or trader or service provider on one hand, and a consumer on the other, having such terms which cause significant change in the rights of such consumer",
+        "includes": [
+          "requiring manifestly excessive security deposits",
+          "imposing any penalty on the consumer which is wholly disproportionate to the loss occurred",
+          "refusing to accept early repayment of debts on payment of applicable penalty",
+          "entitling a party to terminate contract unilaterally without reasonable cause",
+          "permitting one party to assign the contract to the detriment of the consumer without consent",
+          "imposing on the consumer any unreasonable charge, obligation or condition which puts such consumer to disadvantage"
+        ]
+      }
+    },
+    "consumer_protection_councils": {
+      "central_council": {
+        "establishment": "Section 3",
+        "nature": "Advisory council",
+        "composition": {
+          "chairperson": "Minister-in-charge of the Department of Consumer Affairs in the Central Government",
+          "other_members": "such number of other official or non-official members representing such interests as may be prescribed"
+        },
+        "meetings": "at least one meeting every year",
+        "objects": "to render advice on promotion and protection of the consumers' rights"
+      },
+      "state_council": {
+        "establishment": "Section 6",
+        "nature": "Advisory council",
+        "composition": {
+          "chairperson": "Minister-in-charge of Consumer Affairs in the State Government",
+          "other_members": "such number of other official or non-official members representing such interests as may be prescribed"
+        },
+        "meetings": "not less than two meetings every year",
+        "objects": "to render advice on promotion and protection of consumer rights within the State"
+      },
+      "district_council": {
+        "establishment": "Section 8",
+        "nature": "Advisory council",
+        "composition": {
+          "chairperson": "Collector of the district",
+          "other_members": "such number of other official and non-official members representing such interests as may be prescribed"
+        },
+        "meetings": "not less than two meetings every year",
+        "objects": "to render advice on promotion and protection of consumer rights within the district"
+      }
+    },
+    "central_consumer_protection_authority": {
+      "establishment": "Section 10",
+      "purpose": "to regulate matters relating to violation of rights of consumers, unfair trade practices and false or misleading advertisements",
+      "composition": {
+        "chief_commissioner": "appointed by Central Government",
+        "other_commissioners": "such number as may be prescribed"
+      },
+      "powers_functions": [
+        "protect, promote and enforce the rights of consumers as a class",
+        "prevent unfair trade practices",
+        "ensure no false or misleading advertisement is made",
+        "inquire or investigate into violations of consumer rights",
+        "file complaints before redressal commissions",
+        "issue safety notices",
+        "recall dangerous goods"
+      ],
+      "penalties": {
+        "false_misleading_advertisement": {
+          "manufacturer_endorser": "penalty up to 10 lakh rupees (50 lakh for subsequent contravention)",
+          "endorser_prohibition": "prohibited from making endorsement for up to 1 year (3 years for subsequent contravention)",
+          "publisher": "penalty up to 10 lakh rupees"
+        }
+      }
+    },
+    "consumer_disputes_redressal_commissions": {
+      "district_commission": {
+        "establishment": "Section 28",
+        "jurisdiction": "complaints where value does not exceed 1 crore rupees",
+        "composition": {
+          "president": "1",
+          "members": "not less than 2 and not more than prescribed number"
+        }
+      },
+      "state_commission": {
+        "establishment": "Section 42",
+        "jurisdiction": {
+          "complaints": "value exceeds 1 crore but does not exceed 10 crore rupees",
+          "appeals": "against orders of District Commission"
+        },
+        "composition": {
+          "president": "1",
+          "members": "not less than 4 and not more than prescribed number"
+        }
+      },
+      "national_commission": {
+        "establishment": "Section 53",
+        "jurisdiction": {
+          "complaints": "value exceeds 10 crore rupees",
+          "appeals": "against orders of State Commission and Central Authority"
+        },
+        "composition": {
+          "president": "1",
+          "members": "not less than 4 and not more than prescribed number"
+        }
+      }
+    },
+    "mediation": {
+      "establishment": "Section 74",
+      "purpose": "settlement of consumer disputes through mediation",
+      "mediation_cells": {
+        "national_level": "attached to National Commission",
+        "state_level": "attached to State Commissions",
+        "district_level": "attached to District Commissions"
+      },
+      "procedure": {
+        "reference": "by Commission if settlement elements exist",
+        "timeframe": "as specified by regulations",
+        "settlement_report": "prepared by mediator"
+      }
+    },
+    "product_liability": {
+      "application": "Section 82",
+      "product_manufacturer_liability": {
+        "section": "84",
+        "conditions": [
+          "product contains manufacturing defect",
+          "product is defective in design",
+          "deviation from manufacturing specifications",
+          "product does not conform to express warranty",
+          "product fails to contain adequate instructions or warnings"
+        ]
+      },
+      "defences": {
+        "section": "87",
+        "available_when": [
+          "product was misused, altered, or modified",
+          "product was purchased by employer for workplace use with provided warnings",
+          "product was component with warnings given to purchaser",
+          "product for expert use with warnings to expert",
+          "complainant under influence of alcohol or unprescribed drugs"
+        ]
+      }
+    },
+    "offences_penalties": {
+      "non_compliance_directions": {
+        "section": "88",
+        "punishment": "imprisonment up to 6 months or fine up to 20 lakh rupees or both"
+      },
+      "false_misleading_advertisement": {
+        "section": "89",
+        "punishment": "imprisonment up to 2 years and fine up to 10 lakh rupees; subsequent offence: imprisonment up to 5 years and fine up to 50 lakh rupees"
+      },
+      "adulterated_products": {
+        "section": "90",
+        "punishment": {
+          "no_injury": "imprisonment up to 6 months and fine up to 1 lakh rupees",
+          "injury_not_grievous": "imprisonment up to 1 year and fine up to 3 lakh rupees",
+          "grievous_hurt": "imprisonment up to 7 years and fine up to 5 lakh rupees",
+          "death": "imprisonment not less than 7 years (up to life) and fine not less than 10 lakh rupees"
+        }
+      }
+    }
+  }
+}
